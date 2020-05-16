@@ -1,0 +1,9 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "Description",
+  "apidoc": {
+    "title": "Custom apiDoc browser title",
+    "url" : "https://api.github.com/v1"
+  }
+}
